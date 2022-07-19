@@ -3,3 +3,6 @@
 Started code
 
 <img src="demo.gif" width="300" />
+
+Complete code:
+https://github.com/augustosalazar/f_solution_juego_taller1
