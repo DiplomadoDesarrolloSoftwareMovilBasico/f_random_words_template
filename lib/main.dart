@@ -1,4 +1,4 @@
-import 'package:f_template_juego_taller1/random_words.dart';
+import 'package:f_template_juego_taller1/ui/my_app.dart';
 import 'package:flutter/material.dart';
 import 'package:loggy/loggy.dart';
 
@@ -8,8 +8,5 @@ void main() {
       showColors: true,
     ),
   );
-  runApp(const MaterialApp(
-      debugShowCheckedModeBanner: false,
-      title: "RandomWords",
-      home: RandomWords()));
+  runApp(const MyApp());
 }
